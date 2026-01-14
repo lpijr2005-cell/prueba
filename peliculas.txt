@@ -1,2 +1,6 @@
 Avatar
+<<<<<<< HEAD
 Avatar 2
+=======
+Avatar 3
+>>>>>>> fab9eaa58e45ce8abe3cc17931496e1bc11dd2f2
